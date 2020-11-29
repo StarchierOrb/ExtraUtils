@@ -1,0 +1,33 @@
+{
+  "group": "craftingplus_tool",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cobblestone"
+    },
+    "1": {
+      "item": "minecraft:cobblestone"
+    },
+    "2": {
+      "item": "minecraft:flint"
+    },
+    "3": {
+      "item": "minecraft:orange_dye"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "craftingplus:hammer",
+    "count": 1
+  }
+}

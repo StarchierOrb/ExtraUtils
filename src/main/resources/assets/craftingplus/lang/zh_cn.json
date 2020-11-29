@@ -1,0 +1,21 @@
+{
+  "item.craftingplus.quartz_dust": "粗制石英粉",
+  "item.craftingplus.quartz_pickaxe": "石英镐",
+  "item.craftingplus.quartz_axe": "石英斧",
+  "item.craftingplus.quartz_sword": "石英剑",
+  "item.craftingplus.quartz_shovel": "石英铲",
+  "item.craftingplus.quartz_hoe": "石英锄头",
+  "item.craftingplus.emerald_pickaxe": "绿宝石镐",
+  "item.craftingplus.emerald_axe": "绿宝石斧",
+  "item.craftingplus.emerald_sword": "绿宝石剑",
+  "item.craftingplus.emerald_shovel": "绿宝石铲",
+  "item.craftingplus.emerald_hoe": "绿宝石锄头",
+  "item.craftingplus.obsidian_pickaxe": "黑曜石镐",
+  "item.craftingplus.obsidian_axe": "黑曜石斧",
+  "item.craftingplus.obsidian_sword": "黑曜石剑",
+  "item.craftingplus.obsidian_shovel": "黑曜石铲",
+  "item.craftingplus.obsidian_hoe": "黑曜石锄头",
+  "item.craftingplus.hammer": "工具锤子",
+  "block.craftingplus.quartz_dust_block": "石英粉块",
+  "itemGroup.craftingplus_group": "疯狂合成"
+}

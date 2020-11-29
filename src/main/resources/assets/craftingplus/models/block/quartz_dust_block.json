@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "craftingplus:blocks/quartz_ore_block",
+    "particle": "craftingplus:blocks/quartz_ore_block"
+  }
+}

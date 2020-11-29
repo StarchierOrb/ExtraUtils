@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "21 ",
+    " 1 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:obsidian"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "craftingplus:quartz_dust_block"
+    }
+  },
+  "result": {
+    "item": "craftingplus:obsidian_pickaxe",
+    "count": 1
+  }
+}

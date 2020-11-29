@@ -1,0 +1,30 @@
+{
+  "group": "nametag",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "34 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "tag": "forge:dyes"
+    },
+    "4": {
+      "item": "minecraft:paper"
+    },
+    "8": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "minecraft:name_tag",
+    "count": 1
+  }
+}

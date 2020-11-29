@@ -1,0 +1,16 @@
+{
+  "group": "craftingplus_dust",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "craftingplus:hammer"
+    },
+    {
+      "item": "minecraft:smooth_quartz"
+    }
+  ],
+  "result": {
+    "item": "craftingplus:quartz_dust",
+    "count": 4
+  }
+}
